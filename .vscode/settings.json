@@ -1,2 +1,3 @@
 {
+    "dotnet.defaultSolution": "ConsoleAPI.sln"
 }

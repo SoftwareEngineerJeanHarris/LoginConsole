@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj": {}
+    "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj": {
+    "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj",
         "projectName": "ConsoleAPI",
-        "projectPath": "c:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj",
+        "projectPath": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj",
         "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jean\\Desktop\\ConsoleAPI\\obj\\",
+        "outputPath": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

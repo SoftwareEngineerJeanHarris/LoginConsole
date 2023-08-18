@@ -8,5 +8,5 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleAPI
-build_property.ProjectDir = c:\Users\Jean\Desktop\ConsoleAPI\
+build_property.ProjectDir = c:\Users\Jean\Desktop\Github\LoginConsole\
 build_property.EnableComHosting = 

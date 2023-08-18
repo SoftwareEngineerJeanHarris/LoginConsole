@@ -1829,11 +1829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj",
+      "projectUniqueName": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj",
       "projectName": "ConsoleAPI",
-      "projectPath": "C:\\Users\\Jean\\Desktop\\ConsoleAPI\\ConsoleAPI.csproj",
+      "projectPath": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\ConsoleAPI.csproj",
       "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jean\\Desktop\\ConsoleAPI\\obj\\",
+      "outputPath": "c:\\Users\\Jean\\Desktop\\Github\\LoginConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
